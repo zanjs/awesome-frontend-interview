@@ -1,0 +1,11 @@
+{
+  "name": "frontend-interview",
+  "version": "1.0.0",
+  "description": "欢迎大家一起出题 和 结题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
