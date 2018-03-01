@@ -9,7 +9,7 @@
 我们希望每一个爱好前端得朋友， 都能找到一份喜欢得工作，所以我们在此收集高质量得 **面试题** 来助力！🚀🚀🚀
 
 <div align="center">
-  <img width="300" src="./img/home.png">
+  <img width="500" src="./img/home.png">
 </div>
 
 
