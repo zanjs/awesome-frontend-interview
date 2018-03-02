@@ -2,7 +2,16 @@
 
 欢迎大家一起出题 和 解题 、 提交PR 😋😋
 
-[题库](https://github.com/zanjs/frontend-interview/issues)
+[题库](https://github.com/zanjs/awesome-frontend-interview/issues)
+
+
+## 面前准备
+
+### 快速浏览
+
+1. [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+2. [30秒就能理解的JavaScript优秀代码 30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
+3. [30-seconds-of-css](https://atomiks.github.io/30-seconds-of-css/)
 
 ## 祝福
 
